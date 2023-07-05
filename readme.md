@@ -1,6 +1,6 @@
 Introduction
 ============
-Dark Courier is a mod installation tool for Black Geyser: Couriers of Darkness, developed by GrapeOcean Technologies and published by V Publishing.
+Dark Courier is an unofficial open source third-party mod installation tool for Black Geyser: Couriers of Darkness, a cRPG developed by GrapeOcean Technologies and published by V Publishing
 
 Dark Courier is currently in an alpha preview, with limited features and support, and only runs on Windows, however features include:
 - Unpacking bgd.data
