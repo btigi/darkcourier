@@ -3,6 +3,7 @@ namespace ii.dc.Model
 {
     internal class Metadata
     {
+        public string Name { get; set; }
         public string Author { get; set; }
         public string Version { get; set; }
         public int RequiredInstallerVersion { get; set; }
@@ -20,6 +21,10 @@ namespace ii.dc.Model
         public string Destination { get; set; }
         public string File { get; set; }
         public Data Data { get; set; }
+
+        public string Specifier { get; set; }
+        public string Additional { get; set; }
+        public string Change { get; set; }
     }
 
     internal class Data
